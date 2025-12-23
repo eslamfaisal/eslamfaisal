@@ -88,20 +88,6 @@
 
 ---
 
-### 📊 GitHub Stats (auto)
-> These cards render automatically when used in a profile README:
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=eslamfaisal&show_icons=true" />
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=eslamfaisal" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslamfaisal&layout=compact" />
-</p>
-
----
-
 ### 🔗 Quick links
 - AlgoDriven: https://www.algodriven.xyz/  
 - EgyptianSaudi: http://www.egyptiansaudi.com/  
