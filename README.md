@@ -88,8 +88,6 @@
 
 ---
 
-### 🔗 Quick links
-- AlgoDriven: https://www.algodriven.xyz/  
-- EgyptianSaudi: http://www.egyptiansaudi.com/  
+### 🔗 Quick links 
 - YouTube: https://www.youtube.com/@EslamFaisal-BlueThunder  
 - Stack Overflow: https://stackoverflow.com/users/9313214/eslam-faisal
